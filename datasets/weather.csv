@@ -1,0 +1,15 @@
+type,temp,cond,hum,windy,dec
+Overcast,83,hot,86,FALSE,yes
+overcast,64,cool,65,TRUE,yes
+overcast,72,mild,90,TRUE,yes
+overcast,81,hot,75,FALSE,yes
+rainy,70,mild,96,FALSE,yes
+rainy,68,cool,80,FALSE,yes
+rainy,65,cool,70,TRUE,no
+rainy,75,mild,80,FALSE,yes
+rainy,71,mild,91,TRUE,no
+sunny,85,hot,85,FALSE,no
+sunny,80,hot,90,TRUE,no
+sunny,72,mild,95,FALSE,no
+sunny,69,cool,70,FALSE,yes
+sunny,75,mild,70,TRUE,yes

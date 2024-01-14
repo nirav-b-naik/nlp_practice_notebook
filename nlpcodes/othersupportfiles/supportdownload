@@ -1,0 +1,82 @@
+pip install nltk
+
+	nltk.download('punkt')
+
+	nltk.download('stopwords')
+
+	nltk.download('omw-1.4')
+
+	nltk.download('avarege-preceptron-tagger')
+
+	nltk.download('wondent')
+
+	nltk.download('indian')
+	
+	nltk.download('abc')
+
+pip install spacy
+
+pip install textblob
+
+pip install genism
+
+pip install bs4
+
+pip install sumy
+
+pip install pyglot
+
+pip install PyICU
+
+pip install pycld2
+
+pip install morfessor
+
+pip install polyglot
+
+	# for english and arabic
+	%%bash
+	polyglot download morph2.en morph2.ar
+
+	# for marathi and gujarati AND sanskrit
+	%%bash
+	polyglot download morph2.mr morph2.gu morph2.sa
+
+pip install pygooglenews
+
+pip install networkx
+
+pip install pydot
+
+pip install pydotplus
+
+pip install graphviz
+
+sudo apt install graphviz
+
+pip install textblob
+
+pip install ktrain
+
+pip install openai
+
+pip install indic_transliteration
+
+pip install kivy
+
+pip install flask
+
+pip install transformers
+
+pip install language_tool_python
+
+pip install goslate
+
+pip install SpeechRecognition
+
+pip install PyAudio
+(sudo apt-get install python3-pyaudio)
+
+pip install playsound
+
+

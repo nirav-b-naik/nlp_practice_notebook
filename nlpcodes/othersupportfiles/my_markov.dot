@@ -1,0 +1,8 @@
+digraph  {
+healthy;
+sick;
+healthy -> healthy  [key=0, label="0.7", weight="0.7"];
+healthy -> sick  [key=0, label="0.3", weight="0.3"];
+sick -> healthy  [key=0, label="0.4", weight="0.4"];
+sick -> sick  [key=0, label="0.6", weight="0.6"];
+}

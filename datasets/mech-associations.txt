@@ -1,0 +1,23 @@
+Battery, Brakes, Axle, Piston, Radiator, Cable
+Battery, Piston, Radiator
+Tailstock, Bed, Carriage, Lead Screw, Feed Rod, Wheel Hand
+Tailstock, Lead Screw, Feed Rod, Wheel Hand
+Bed, Carriage, Lead Screw, Feed Rod, Wheel Hand
+Casing, Bearing, Piston, Plunger, Coupler
+Casing, Bearing, Piston, Plunger
+Piston, Plunger, Coupler, Axle, Cable  
+Casing, Bearing, Coupler
+Side Spanner, Ring Spanner, Hammer, Pipe Wrench, Plier, Bearing
+Casing, Piston, Carriage, Coupler
+Shaft, Winding, Bearing, Casing
+Shaft, Winding, Bearing, Casing, Bearing
+Bearing, Casing
+Shaft, Winding, Bearing, Casing
+Shaft, Casing, Axle, Bearing
+Rope, Cable, Chain, Belt, Rim, Bearing
+Rope, Rim, Cable, Chain, Belt
+Cable, Casing, Belt, Rim, Rope
+Side Spanner, Ring Spanner, Hammer, Pipe Wrench, Plier
+Side Spanner, Ring Spanner, Pipe Wrench, Carriage
+Side Spanner, Ring Spanner, Hammer, Pipe Wrench
+Side Spanner, Ring Spanner, Hammer, Plier, Bearing
